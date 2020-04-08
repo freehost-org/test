@@ -3,7 +3,7 @@ async function main() {
     iframe = "<p>Hello</p>";
 
     let div = document.createElement("iframe");
-    div.src = "https://www.youtube.com/embed/VsXCK_2DJzA";
+    div.src = "https://www.youtube.com/embed/N5HgK1bTLOg";
     div.width = 560;
     div.height = 315;
     div.frameborder = 0;
